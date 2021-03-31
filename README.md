@@ -16,7 +16,7 @@
 1. Clone 此專案至本機
 
 ```
-git clone https://github.com/HenryChung81/restaurant-list_2.git
+git clone https://github.com/HenryChung81/restaurant-list_2-master.git
 ```
 
 2. 進入存放專案的資料夾
